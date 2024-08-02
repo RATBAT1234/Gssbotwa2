@@ -7,11 +7,11 @@ global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
 global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "𝑆𝛪𝐷 𝐵𝛨𝛥𝛪";
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
-global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
-global.author = "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
+global.ownername = "RATBAT";
+global.owner = ['18762251976'];
+global.premium = ['18762251976'];
+global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢 RATBAT";
+global.author = "RATBAT.6";
 global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
 global.typemenu = "v1"
@@ -25,7 +25,7 @@ global.autoreact = false
 global.onlygroup = false
 global.onlypc = false
 global.welcome = true
-global.autoBlock = true
+global.autoBlock = TRUE
  
 /*REPLY MESSAGE*/
 global.mess = {
